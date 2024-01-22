@@ -6,3 +6,10 @@ As time passes, we hope that people add more interconnections between the micros
 
 We hope that through mapping out our current systems and ecologies as a whole, we will gain a greater understanding and meaning of the forest that we are currently in.
 
+## Timeline / Timelog 
+
+### Milestone 1 - First publishable website ready by January 31st 2024
+- Map should include: from fundamental physics up to living organisms, general structure of society
+
+### Milestone 2 - Add more information by February 14th 2024
+- Improve styling and interactivity for open-source contributions!
