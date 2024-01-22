@@ -57,7 +57,7 @@ const nodeStyle = {
     },
     {
       id: 'v_mu',
-      data: { label: 'Muon' },
+      data: { label: 'Muon Neutrino' },
       position: { x: 120, y: 90 },
       parentNode: 'L',
       extent: 'parent',
@@ -65,7 +65,7 @@ const nodeStyle = {
     },
     {
       id: 'v_tau',
-      data: { label: 'Tau neutrino' },
+      data: { label: 'Tau Neutrino' },
       position: { x: 230, y: 90 },
       parentNode: 'L',
       extent: 'parent',
