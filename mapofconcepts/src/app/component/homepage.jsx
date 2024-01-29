@@ -9,6 +9,7 @@ import React from 'react';
 import { ReactP5Wrapper } from 'react-p5-wrapper';
 // import Sketch from './Sketch'; // Import the Sketch component
 import Link from 'next/link';
+import { Parallax } from '@react-spring/parallax';
 
 // Sketch.js
 export const Sketch = (p5) => {
